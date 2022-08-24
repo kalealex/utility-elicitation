@@ -1,3 +1,6 @@
 [submodule "use-case-scenarios/ue-hospital-use-case-scenario"]
 	path = use-case-scenarios/ue-hospital-use-case-scenario
 	url = git@github.com:kalealex/ue-hospital-use-case-scenario.git
+[submodule "use-case-scenarios/ue-participatory-budgeting-use-case-scenario"]
+	path = use-case-scenarios/ue-participatory-budgeting-use-case-scenario
+	url = git@github.com:kalealex/ue-participatory-budgeting-use-case-scenario.git
