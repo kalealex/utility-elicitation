@@ -1,2 +1,3 @@
 .DS_Store
-hospital_dataset
+hospital_dataset/*.RData
+hospital_dataset/hospital-admissions.csv

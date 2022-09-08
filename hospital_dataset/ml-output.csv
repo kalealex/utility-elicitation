@@ -1,0 +1,201 @@
+,race,gender,age,insurance_status,arrivalmode,cc_chestpain,cc_fever,cc_fatigue,cc_hypertension,cc_seizures,sicklecell,pulmhartdx,prob_admit,risk_score
+75947,Black or African American,Female,83.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+349031,Black or African American,Male,42.0,Medicaid,Walk-in,0.0,0.0,0.0,1.0,0.0,0,0,1,4.595119850134589
+315216,White or Caucasian,Female,23.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+505658,Other,Male,22.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+238079,White or Caucasian,Male,82.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+333269,White or Caucasian,Female,34.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+85678,Black or African American,Male,60.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+337533,Other,Male,49.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+549902,White or Caucasian,Male,70.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+176033,White or Caucasian,Female,26.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+509534,Other,Male,38.0,Other,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+120069,Other,Female,59.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+466626,Other,Female,36.0,Medicaid,Car,0.0,0.0,0.0,1.0,0.0,0,0,0,-4.59511985013459
+417586,Other,Female,32.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+162046,White or Caucasian,Male,70.0,Medicare,,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+331342,Black or African American,Female,49.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+143006,White or Caucasian,Male,73.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+68466,White or Caucasian,Female,56.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+181483,White or Caucasian,Female,91.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+473148,White or Caucasian,Female,72.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+413269,White or Caucasian,Male,77.0,Medicare,Car,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+280018,Other,Female,27.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+537714,White or Caucasian,Female,94.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+555791,Black or African American,Male,30.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+225906,White or Caucasian,Female,21.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+186061,White or Caucasian,Female,64.0,Commercial,ambulance,1.0,0.0,0.0,0.0,0.0,0,1,1,4.595119850134589
+210585,White or Caucasian,Female,70.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+91792,White or Caucasian,Female,36.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+464768,White or Caucasian,Female,85.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+213833,White or Caucasian,Female,68.0,Medicare,ambulance,0.0,0.0,1.0,0.0,0.0,0,0,1,4.595119850134589
+478022,White or Caucasian,Female,85.0,Other,,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+98754,White or Caucasian,Female,68.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+486857,White or Caucasian,Male,19.0,Commercial,,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+354208,Other,Male,57.0,Commercial,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+146760,Black or African American,Female,73.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+221000,Black or African American,Female,24.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+11717,White or Caucasian,Male,71.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+210635,White or Caucasian,Male,61.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+25352,Black or African American,Female,52.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+353540,White or Caucasian,Male,80.0,Commercial,Car,0.0,0.0,0.0,1.0,0.0,0,0,0,-4.59511985013459
+221254,White or Caucasian,Female,54.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+442708,White or Caucasian,Female,48.0,Commercial,Car,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+324921,White or Caucasian,Female,25.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+490498,White or Caucasian,Male,28.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+231094,Black or African American,Female,24.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+109650,Black or African American,Female,41.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+27220,White or Caucasian,Male,88.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+307532,White or Caucasian,Female,86.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+515410,Other,Female,25.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+415848,Black or African American,Male,23.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+207758,Other,Male,46.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+155652,White or Caucasian,Female,63.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+448135,Black or African American,Male,31.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+169065,Black or African American,Female,22.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,1,0,1,4.595119850134589
+306605,Black or African American,Male,36.0,Other,ambulance,0.0,0.0,0.0,0.0,0.0,1,0,0,-4.59511985013459
+448235,White or Caucasian,Female,70.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+408531,Black or African American,Female,37.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+253586,White or Caucasian,Female,50.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+19285,White or Caucasian,Male,31.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+24535,White or Caucasian,Female,80.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+22169,Black or African American,Male,76.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+182779,White or Caucasian,Male,36.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+29697,Black or African American,Female,48.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+447301,Other,Female,21.0,Commercial,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+269934,White or Caucasian,Female,53.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+366876,White or Caucasian,Male,92.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+244667,Other,Male,34.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+237654,Other,Female,27.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+156722,White or Caucasian,Male,35.0,Other,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+129499,White or Caucasian,Male,55.0,Commercial,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+275594,White or Caucasian,Male,50.0,Medicaid,Other,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+340902,White or Caucasian,Female,60.0,Medicare,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+442679,White or Caucasian,Male,31.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+346896,White or Caucasian,Male,52.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+77585,White or Caucasian,Female,53.0,Commercial,Car,1.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+469570,White or Caucasian,Male,40.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+87618,White or Caucasian,Female,21.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+288266,Patient Refused,Male,18.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+354797,White or Caucasian,Female,34.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+411699,White or Caucasian,Male,62.0,Commercial,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+339796,White or Caucasian,Female,49.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+280754,White or Caucasian,Male,40.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+260286,White or Caucasian,Male,51.0,Commercial,ambulance,1.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+510951,Other,Male,30.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+251494,Black or African American,Female,27.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+515911,American Indian or Alaska Native,Male,54.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+314607,White or Caucasian,Male,50.0,Medicare,Public Transportation,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+535134,Black or African American,Male,59.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+328261,White or Caucasian,Male,93.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+308327,Asian,Female,80.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+28140,White or Caucasian,Male,51.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+248921,White or Caucasian,Female,62.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+280015,Other,Female,40.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+155699,Black or African American,Male,30.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+420496,Other,Female,23.0,Other,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+33036,Black or African American,Female,87.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+319682,White or Caucasian,Male,53.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+377854,White or Caucasian,Male,27.0,Medicaid,Walk-in,1.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+470263,White or Caucasian,Male,88.0,Medicare,ambulance,0.0,0.0,1.0,0.0,0.0,0,0,1,4.595119850134589
+429484,Other,Female,19.0,Medicaid,Other,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+374317,White or Caucasian,Female,58.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+168376,Other,Female,37.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+88379,Black or African American,Male,50.0,Commercial,Car,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+365364,White or Caucasian,Female,50.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+234104,White or Caucasian,Male,43.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+334689,White or Caucasian,Female,61.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+418940,White or Caucasian,Male,99.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+416233,White or Caucasian,Female,84.0,Medicaid,ambulance,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+202486,White or Caucasian,Female,85.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+255132,Black or African American,Male,37.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+471307,White or Caucasian,Male,68.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+356489,Black or African American,Female,24.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+258713,Other,Male,34.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+65583,Black or African American,Female,27.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+154259,White or Caucasian,Female,65.0,Commercial,,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+528579,White or Caucasian,Female,25.0,Commercial,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+216741,White or Caucasian,Female,44.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+55650,Black or African American,Female,50.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+10847,White or Caucasian,Female,59.0,Medicare,ambulance,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+367657,Black or African American,Female,30.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+436981,White or Caucasian,Female,47.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+267038,Black or African American,Female,54.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,1,0,-4.59511985013459
+558345,White or Caucasian,Male,82.0,Medicare,Other,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+361475,White or Caucasian,Female,45.0,Other,Other,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+432839,White or Caucasian,Male,25.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+419055,Other,Male,59.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+260809,Black or African American,Female,25.0,Other,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+270347,White or Caucasian,Female,75.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+521134,White or Caucasian,Male,85.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+537859,White or Caucasian,Female,63.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+320114,Other,Male,26.0,Medicaid,Car,1.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+166795,Black or African American,Female,33.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+353955,White or Caucasian,Female,64.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+500199,White or Caucasian,Male,58.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+526999,Black or African American,Female,62.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+307162,Black or African American,Female,46.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+546677,Black or African American,Male,90.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+279903,Other,Female,21.0,Other,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+483454,White or Caucasian,Male,27.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+288694,Other,Female,89.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+192113,White or Caucasian,Female,20.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+462834,Patient Refused,Female,26.0,Other,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+286266,White or Caucasian,Female,58.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+396557,White or Caucasian,Male,45.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+85739,Black or African American,Male,61.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+219320,Other,Female,53.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+472504,White or Caucasian,Male,36.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+333301,White or Caucasian,Female,54.0,Medicare,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+441356,Other,Female,46.0,Other,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+192248,White or Caucasian,Female,22.0,Medicaid,Walk-in,1.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+72536,Other,Male,24.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+227518,Other,Female,32.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+52932,Black or African American,Female,25.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+331148,Other,Female,76.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+302622,Black or African American,Female,76.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+234773,Other,Male,22.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+509659,Other,Male,56.0,Other,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+25494,White or Caucasian,Male,38.0,Medicare,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+55546,White or Caucasian,Female,88.0,Medicare,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+205920,Other,Female,36.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+554292,White or Caucasian,Male,23.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+125952,White or Caucasian,Male,75.0,Medicare,ambulance,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+239346,White or Caucasian,Female,64.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+216175,Black or African American,Female,25.0,Other,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+515148,Other,Female,36.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+495887,Other,Male,57.0,Other,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+338029,White or Caucasian,Female,40.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+199785,White or Caucasian,Female,45.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+396474,Black or African American,Male,44.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+461575,Black or African American,Male,50.0,Medicaid,Other,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+226950,White or Caucasian,Female,57.0,Medicare,Car,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+318244,Black or African American,Male,55.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+309235,Black or African American,Female,56.0,Commercial,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+489126,White or Caucasian,Male,68.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+541476,Other,Female,44.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+541271,White or Caucasian,Male,81.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+204757,Black or African American,Male,50.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+317260,White or Caucasian,Male,59.0,Commercial,ambulance,1.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+146815,White or Caucasian,Male,53.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+324546,White or Caucasian,Female,44.0,Medicaid,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+464398,White or Caucasian,Male,66.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+201099,White or Caucasian,Male,56.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+404705,White or Caucasian,Male,77.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+524154,Other,Male,43.0,Medicaid,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+305034,Black or African American,Male,64.0,Commercial,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+445877,White or Caucasian,Female,68.0,Medicare,Other,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+446659,Other,Male,25.0,Other,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+463201,Black or African American,Female,27.0,Other,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+277384,Black or African American,Female,46.0,Medicaid,Walk-in,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+412785,Black or African American,Female,46.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+257474,Other,Female,35.0,Medicaid,Car,1.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+11917,Black or African American,Female,67.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,1,1,4.595119850134589
+286353,White or Caucasian,Male,24.0,Commercial,,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+278756,White or Caucasian,Female,69.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+434515,Other,Male,49.0,Other,Public Transportation,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+290816,White or Caucasian,Female,46.0,Medicare,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+559362,White or Caucasian,Male,23.0,Commercial,ambulance,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+344624,White or Caucasian,Female,48.0,Commercial,Car,0.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
+119885,Black or African American,Male,74.0,Medicare,Car,0.0,0.0,0.0,0.0,0.0,0,0,1,4.595119850134589
+26159,White or Caucasian,Female,61.0,Commercial,Car,1.0,0.0,0.0,0.0,0.0,0,0,0,-4.59511985013459
